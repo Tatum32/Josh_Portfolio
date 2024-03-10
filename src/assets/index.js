@@ -1,4 +1,5 @@
 import logo from "./logo.svg";
+import JoshTatum from "./JoshTatum.png"
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -86,5 +87,5 @@ export {
   tesla,
   carrent,
   jobit,
-  tripguide,seo,arrow,ppc,adobe,premierepro,crm,mailchimp,gads,ganalytics,microsoftoffice,ecommerce,fbads,wordpress,talent,partnerrelations,money,leadership,companygm,pdskills,contractnego,marketing,bigecommerce,comms,mcpediatricdentistry,susanrobertsdentistry,jhc,oppurtunitytitle
+  tripguide,seo,arrow,ppc,adobe,premierepro,crm,mailchimp,gads,ganalytics,microsoftoffice,ecommerce,fbads,wordpress,talent,partnerrelations,money,leadership,companygm,pdskills,contractnego,marketing,bigecommerce,comms,mcpediatricdentistry,susanrobertsdentistry,jhc,oppurtunitytitle,JoshTatum
 };
