@@ -13,7 +13,7 @@ import {
   jobit,
   tripguide,
   threejs,
-  ppc,seo,adobe,arrow,premierepro,crm,mailchimp,gads,ganalytics,microsoftoffice,ecommerce,fbads,wordpress,talent,partnerrelations,money,leadership,companygm,pdskills,contractnego,marketing,bigecommerce,comms,jhcmlawtx,mcpediatricdentistry,susanrobertsdentistry,oppurtunitytitle
+  ppc,seo,adobe,arrow,premierepro,crm,mailchimp,gads,ganalytics,microsoftoffice,ecommerce,fbads,wordpress,talent,partnerrelations,money,leadership,companygm,pdskills,contractnego,marketing,bigecommerce,comms,mcpediatricdentistry,susanrobertsdentistry,oppurtunitytitle
 } from "../assets";
 
 export const navLinks = [
@@ -350,7 +350,7 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: jhcmlawtx,
+    image: mcpediatricdentistry,
     source_code_link: "https://jhcmlawtx.com/",
   }
 ];

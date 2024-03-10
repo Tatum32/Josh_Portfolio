@@ -56,7 +56,7 @@ import tripguide from "./tripguide.png";
 import oppurtunitytitle from "./oppurtunitytitle.png";
 import mcpediatricdentistry from "./mcpediatricdentistry.png";
 import susanrobertsdentistry from "./susanrobertsdentistry.png";
-import jhcmlawtx from "./jhcmlawtx.png";
+// import jhcmlawtx from "./jhcmlawtx.png";
 
 export {
   logo,
@@ -86,5 +86,5 @@ export {
   tesla,
   carrent,
   jobit,
-  tripguide,seo,arrow,ppc,adobe,premierepro,crm,mailchimp,gads,ganalytics,microsoftoffice,ecommerce,fbads,wordpress,talent,partnerrelations,money,leadership,companygm,pdskills,contractnego,marketing,bigecommerce,comms,jhcmlawtx,mcpediatricdentistry,susanrobertsdentistry,oppurtunitytitle
+  tripguide,seo,arrow,ppc,adobe,premierepro,crm,mailchimp,gads,ganalytics,microsoftoffice,ecommerce,fbads,wordpress,talent,partnerrelations,money,leadership,companygm,pdskills,contractnego,marketing,bigecommerce,comms,mcpediatricdentistry,susanrobertsdentistry,oppurtunitytitle
 };
