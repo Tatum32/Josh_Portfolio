@@ -4,7 +4,7 @@ import { technologies } from "../constants";
 
 const Tech = () => {
   return (
-    <div><h1 className="text-red-500  mb-20 w-full text-2xl font-bold  pl-[45%]">My Skills</h1>
+    <div><h1 className="text-red-500  mb-20 w-full text-2xl font-bold  pl-[45%] mx-auto absolute">My Skills</h1>
     <div className='flex flex-row flex-wrap justify-center gap-4'>
       
       {technologies.map((technology) => (
