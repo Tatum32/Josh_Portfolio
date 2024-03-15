@@ -95,61 +95,10 @@ const technologies = [
     name: "Ecommerce Expert",
     icon: ecommerce,
   },
-  {
-    name: "Shopify",
-    icon: shopify,
-  },
-  {
-    name: "BigCommerce",
-    icon: bigecommerce,
-  },
-  {
-    name: "Microsoft Office",
-    icon: microsoftoffice,
-  },
+  
   {
     name: "Partner Relations",
     icon: partnerrelations,
-  },
-  {
-    name: "Talent Acquisation",
-    icon: talent,
-  },
-  {
-    name: "Google Analytics",
-    icon: ganalytics,
-  },
-  {
-    name: "Google Ads",
-    icon: gads,
-  },
-  {
-    name: "WordPress",
-    icon: wordpress,
-  },
-  {
-    name: "HTML and CSS",
-    icon: html,
-  },
-  {
-    name: "Leadership and People Developement",
-    icon: leadership,
-  },
-  {
-    name: "Contract Negotiation",
-    icon: contractnego,
-  },
-  {
-    name: "Product Development and Business Strategy Skills",
-    icon: pdskills,
-  },
-  {
-    name: "Company Growth and Management",
-    icon: companygm,
-  },
-  {
-    name: "CSS",
-    icon: css,
   },
 ];
 
