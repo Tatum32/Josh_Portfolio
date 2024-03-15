@@ -1,5 +1,4 @@
 import React from "react";
-import { Tilt } from 'react-tilt';
 import { motion } from "framer-motion";
 
 import { styles } from "../styles";
@@ -17,7 +16,7 @@ const ProjectCard = ({
   source_code_link,
 }) => {
   return (
-    <motion.div variants={fadeIn("up", "spring", index * 0.5, 0.75)}>
+    <div>
       <div
         className='bg-tertiary p-5 rounded-2xl sm:w-[360px] w-full '
       >
@@ -58,20 +57,20 @@ const ProjectCard = ({
           ))}
         </div>
       </div>
-    </motion.div>
+    </div>
   );
 };
 
 const Works = () => {
   return (
     <>
-      <motion.div variants={textVariant()}>
+      <div >
         <p className={`${styles.sectionSubText} `}>My work</p>
         <h2 className={`${styles.sectionHeadText}`}>Projects.</h2>
-      </motion.div>
+      </div>
 
       <div className='w-full flex'>
-        <motion.p
+        <p
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-3 text-white text-[17px] max-w-3xl leading-[30px]'
         >
@@ -86,7 +85,7 @@ const Works = () => {
           for seamless client management. It's not just a portfolio; it's a testament 
           to the power of comprehensive digital solutions.Explore the digital landscapes we've 
           shaped, exemplified by projects like : 
-        </motion.p>
+        </p>
       </div>
 
       <div className='mt-20 flex flex-wrap gap-7'>
