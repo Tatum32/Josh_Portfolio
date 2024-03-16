@@ -100,6 +100,59 @@ const technologies = [
     name: "Partner Relations",
     icon: partnerrelations,
   },
+  {
+    name: "Maketing Campaigns",
+    icon: marketing,
+  },
+  {
+    name: "Social Media Management",
+    icon: reactjs,
+  },
+  {
+    name: "PPC",
+    icon: ppc,
+  },
+  {
+    name: "Monetization",
+    icon: money,
+  },
+  {
+    name: "Meta Ads",
+    icon: meta,
+  },
+  {
+    name: "SEO",
+    icon: seo,
+  },
+  {
+    name: "CRM Software",
+    icon: crm,
+  },
+  {
+    name: "Adobe Photoshop",
+    icon: adobe,
+  },
+  {
+    name: "Premier Pro",
+    icon: premierepro,
+  },
+  {
+    name: "MailChimp",
+    icon: mailchimp,
+  },
+  {
+    name: "Facebook Advertising",
+    icon: fbads,
+  },
+  {
+    name: "Ecommerce Expert",
+    icon: ecommerce,
+  },
+  
+  {
+    name: "Partner Relations",
+    icon: partnerrelations,
+  },
 ];
 
 const experiences = [
